@@ -2,6 +2,6 @@
   "name": "HackBar",
   "version": "2.9",
   "msg":"New update Available!",
-  "link":"https://github.com/PhHitachi/HackBar/edit/master/update.json",
-  "notes":"https://github.com/PhHitachi/HackBar/edit/master/notes.md"
+  "link":"https://raw.githubusercontent.com/PhHitachi/HackBar/master/update.json",
+  "notes":"https://raw.githubusercontent.com/PhHitachi/HackBar/master/notes.md"
   }
