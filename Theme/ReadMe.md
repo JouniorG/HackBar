@@ -2,9 +2,10 @@
 
 <b> Steps </b>
 1. goto tools 
-2. click setting 
-3. click import preferences (json)
-4. Restart
+2. click Customize hackbar tools
+3. click Setting
+4. click import preferences (json)
+5. Restart
 
 
 
